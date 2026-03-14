@@ -8,10 +8,16 @@
     padding-right: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
+    background-color: slateblue;
 }
 
 .menu {
     display: flex;
     gap: 25px;
     margin-left: auto;
+}
+.link-navbar {
+    text-decoration: none;
+    color: rgba(93, 7, 130, 0.533);
+    font-size: 18px;
 }
